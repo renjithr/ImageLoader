@@ -1,0 +1,57 @@
+{
+  "phoneList": [
+   {
+    "name":"IPhone1",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone1.png"
+   },
+   {
+    "name":"IPhone3G",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone3G.png"
+   },
+   {
+    "name":"IPhone3GS",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone3GS.png"
+   },
+   {
+    "name":"IPhone4",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone4.png"
+   },
+   {
+    "name":"IPhone5",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone5.png"
+   },
+   {
+    "name":"IPhone5C",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone5C.png"
+   },
+   {
+    "name":"IPhone5S",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone5S.png"
+   },
+   {
+    "name":"IPhone6",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone6.png"
+   },
+   {
+    "name":"IPhone6S",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone6S.png"
+   },
+   {
+    "name":"IPhone7",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone7.png"
+   },
+   {
+    "name":"IPhone8",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhone8.png"
+   },
+   {
+    "name":"IPhoneSE",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhoneSE.png"
+   },
+   {
+    "name":"IPhoneX",
+    "url": "https://raw.githubusercontent.com/renjithr/ImageLoader/master/Images/IPhoneX.png"
+   }
+  ]
+    
+}
